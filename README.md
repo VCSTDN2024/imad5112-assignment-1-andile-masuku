@@ -20,7 +20,7 @@ Start with a header section that includes the following basic details:
 
 ## Links
 - **GitHub Repository**: [https://github.com/VCSTDN2024/imad5112-assignment-1-andile-masuku ]
-- **YouTube Video**: [YouTube Video Link]
+- **YouTube Video**: [https://youtu.be/zv21JFAwLBs]
 ```
 
 - This section gives the basic context of who created the project and provides links to the repository and the video demonstration.
