@@ -11,40 +11,35 @@
 Start with a header section that includes the following basic details:
 
 ```markdown
-# [App Title]
-- **Developer**: [Student Name]
-- **Student Number**: [Your Student Number]
-- **Group**: [Your Group Name or Number]
-- **Course**: [Course Name]
-- **Subject**: [Subject Name]
+# [LUNA'S SPECIAL DELUXE MEAL SUGGESTIONS]
+- **Developer**: [ANDILE TSHUMA NTOMBIZILE MASUKU]
+- **Student Number**: [ST10477470]
+- **Group**: [GROUP_O1]
+- **Course**: [HCMAWD1]
+- **Subject**: [IMAD5112]
 
 ## Links
-- **GitHub Repository**: [Repository URL]
+- **GitHub Repository**: [https://github.com/VCSTDN2024/imad5112-assignment-1-andile-masuku ]
 - **YouTube Video**: [YouTube Video Link]
 ```
 
-Why:
-----
 - This section gives the basic context of who created the project and provides links to the repository and the video demonstration.
 
----
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 2. Project Overview
--------------------
 
 ```markdown
 ## Project Overview
 
-The **[App Title]** is a mobile application developed as part of an assignment in the [Course Name] subject. This application was created using **Kotlin** and **Android Studio**. The app's primary purpose is to [briefly describe the purpose of the app, e.g., provide a task management system, display weather forecasts, etc.].
+The **[LUNA'S SPECIAL DELUXE MEAL APP]** is a mobile application developed as part of an assignment in the [IMAD5112] subject. This application was created using **Kotlin** and **Android Studio**. The app's primary purpose is to [briefly describe the purpose of the app, e.g., do calculations, generate age, meal suggestions, etc.].
 
 The app was developed to meet the requirements of the assignment, which includes creating a functional mobile app and utilizing GitHub for version control and CI/CD automation using GitHub Actions.
 ```
-
-Why:
-----
+THIS
 - Provides a brief, high-level summary of the project. This helps anyone reading the document (including your lecturer and potential future employers) understand the app’s purpose quickly.
 
----
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 3. App Purpose and Features
 ---------------------------
@@ -63,11 +58,9 @@ The main goal of this app is to [explain the app’s functionality].
 These features aim to provide [what the app aims to achieve, e.g., an easy-to-use platform for managing tasks or organizing personal information].
 ```
 
-Why:
-----
 - This section breaks down the specific features and the purpose of the app, giving clarity on the app’s functionality.
 
----
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 4. Design Considerations
 ------------------------
@@ -86,11 +79,11 @@ The design of the **[App Title]** was based on the following key considerations:
 4. **Performance**: Code optimization was considered to ensure fast response times and low battery usage.
 ```
 
-Why:
+This
 ----
 - Highlights the thought process behind the design choices. It demonstrates that students are considering not just the functionality, but also the usability and performance aspects of the app, which is a professional approach.
 
----
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 5. GitHub and GitHub Actions Utilization
 ----------------------------------------
