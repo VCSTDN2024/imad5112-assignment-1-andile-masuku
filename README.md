@@ -179,7 +179,7 @@ FOR
 -------------
 
 ```markdown
-## References
+## ReferenceList
 
 ["BBC Good Food. (2024). Easy dinner recipes. [online] Available at: https://www.bbcgoodfood.com/recipes/collection/easy-dinner-recipes.code, random (2023). Kotlin - Get text input with EditText. Youtu.be. Available at: https://youtu.be/vIOruRkaw8c?si=FFhCy7a22LDg8BP9 [Accessed 29 Mar. 2025]."]
 
