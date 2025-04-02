@@ -102,11 +102,9 @@ I utilized **GitHub Actions** to automate the build and deployment process. This
 The workflow ensures that my project is automatically built and tested every time I push changes, and it simplifies the process of delivering the final APK/AAB files for submission.
 ```
 
-Why:
-----
 - This section educates students on why they should understand version control (GitHub) and automation (GitHub Actions). It shows how they’re adopting industry-standard practices, which is useful for both academic purposes and career development.
 
----
+--------------------------------------------------------------------------------------------------------------------
 
 6. Screenshots and App Demo
 ---------------------------
@@ -115,21 +113,23 @@ Why:
 ## Screenshots
 
 ### App Screenshots:
-![Screenshot 1](path_to_screenshot_1.png)
-*Caption for screenshot 1: [Describe the context, e.g., "The home screen of the app showing the task list."]*
+![screenshot_1](https://github.com/user-attachments/assets/0332668c-df09-4c2f-b68a-c0290368bdb1)
 
-![Screenshot 2](path_to_screenshot_2.png)
-*Caption for screenshot 2: [Describe the context, e.g., "The user profile screen where personal information is updated."]*
+*Caption for screenshot_1: [ Home page for the meal app."]*
+
+![screenshot_2](https://github.com/user-attachments/assets/83cb1c92-8cdd-4bc9-89d5-35035e960a72)
+
+*Caption for screenshot_2: [ Main screen of the meal app."]*
 
 ### Video Demo:
 A video showcasing the app's functionality can be viewed here: [YouTube Video Link].
 ```
 
-Why:
-----
+THESE
+-----
 - Visuals like screenshots or a video link provide concrete evidence of the app’s functionality. This is an easy way for the reader to see what the app looks like and how it operates.
 
----
+---------------------------------------------------------------------------------------
 
 7. Challenges and Learnings
 ---------------------------
@@ -139,20 +139,19 @@ Why:
 
 During the development of this project, I encountered several challenges, including:
 
-1. **Challenge 1**: [Briefly describe a challenge you faced, e.g., "Implementing a complex feature like the login system."]
-   - **Solution**: [How you solved the challenge, e.g., "I researched Firebase authentication and successfully integrated it into the app."]
+1. **Challenge 1**: ["I was not able to run my app on the virtual device and on my Android Studio"]
+   - **Solution**: ["I researched the error on google... and I successfully ended up finding out that the problem was on one of my xml.files and fixed the error."]
    
-2. **Challenge 2**: [Describe another challenge, e.g., "Debugging issues related to Gradle builds."]
-   - **Solution**: [How you solved the challenge.]
+2. **Challenge 2**: ["I had a hard time getting my generating button to work."]
+   - **Solution**: ["I had to change my code and use it in a different way."]
 
-From these challenges, I learned important lessons in debugging, using version control, and automating build processes with GitHub Actions.
+From these challenges, I learned important lessons in debugging, using version control, making sure you use the correct code, to make sure that everything is closed up or declared, and automating build processes with GitHub Actions.
 ```
-
-Why:
+THIS IS FOR
 ----
 - Reflecting on challenges and solutions shows growth and problem-solving skills, which are critical for students. It also gives insight into their learning process, which can be valuable to employers.
 
----
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 8. Future Enhancements
 ----------------------
@@ -162,18 +161,19 @@ Why:
 
 While the current version of the app provides the core functionality, there are several features that could be added in the future, including:
 
-1. **Feature 1**: [Description, e.g., "Allowing users to set up reminders or notifications."]
-2. **Feature 2**: [Description, e.g., "Integrating with a cloud database for storing user data."]
-3. **Feature 3**: [Description, e.g., "Adding a dark mode option for better user experience."]
+1. **Feature 1**: [Notifications, "Allowing users to set up reminders or notifications."]
+2. **Feature 2**: [StorageDrive, "Integrating with a cloud database for storing user data."]
+3. **Feature 3**: [Theme, "Adding different mode option for better user experience."]
+4. **Feature 4**: [Font, " Adding different font and size for much greater experience"]
+5. **Feature 5**: [Pictures, " To know what type of food it is and how it looks like."]
 
 These enhancements would improve the app’s usability and make it even more versatile for end-users.
 ```
-
-Why:
+FOR
 ----
 - Suggesting future improvements shows forward thinking and a desire to continuously improve. It also demonstrates that the student has a clear vision for the app beyond the current assignment.
 
----
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 9. References
 -------------
