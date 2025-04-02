@@ -68,7 +68,7 @@ These features aim to provide [what the app aims to achieve, e.g., an easy-to-us
 ```markdown
 ## Design Considerations
 
-The design of the **[App Title]** was based on the following key considerations:
+The design of the **[LUNA'S SPECIAL DELUXE MEAL SUGGESTION]** was based on the following key considerations:
 
 1. **User Experience (UX)**: The app was designed with the goal of providing an intuitive and easy-to-navigate user interface, ensuring a seamless user experience.
    
@@ -181,15 +181,23 @@ FOR
 ```markdown
 ## References
 
-1. [Reference 1: E.g., any books, articles, or online resources you used during development.]
-2. [Reference 2: Any relevant papers, documentation, or tutorials.]
+["BBC Good Food. (2024). Easy dinner recipes. [online] Available at: https://www.bbcgoodfood.com/recipes/collection/easy-dinner-recipes.code, random (2023). Kotlin - Get text input with EditText. Youtu.be. Available at: https://youtu.be/vIOruRkaw8c?si=FFhCy7a22LDg8BP9 [Accessed 29 Mar. 2025]."]
+
+["Colorpsychologymeaning.com. (2021). Available at: https://colorpsychologymeaning.com/wp-content/uploads/2021/12/shades-of-blue-names-hex.jpg.Garanganga, K. (2022). IMAD5112 Practicum Discussion 2024. [online]."]
+
+["Youtu.be. Available at: https://youtu.be/_u8zA1CxxV4?si=Aecws8sboNo9ZdXL [Accessed 2 Apr. 2025].Garanganga, K. (2024). IMAD5112 PoE Discussion 2023. [online] Youtu.be. Available at: https://youtu.be/lwTjXJVheK0?si=HS8E1bPqYfLDMIrh [Accessed 2 Apr. 2025].Google.com. (2017). Available at: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiOw6LL-bmMAxWS4QIHHd4hEikQFnoECB4QAQ&url=https%3A%2F%2Fstackoverflow.com%2Fquestions%2F21404686%2Fxml-parsing-error-xml-or-text-declaration-not-at-start-of-entity&usg=AOvVaw1pL7sYhMLkROVFArfYxLDi&opi=89978449 [Accessed 2 Apr. 2025]."]
+
+["How to create a new activity | New Screen In Android Studio. (2020). Youtu.be. Available at: https://youtu.be/nb8hFrRkeA8?si=Ca49UhOS0g7kolpq [Accessed 28 Mar. 2025]."]
+
+["user3095193 (2014). XML Parsing Error: XML or text declaration not at start of entity. [online]."]
+
+ ["Stack Overflow. Available at: https://stackoverflow.com/questions/21404686/xml-parsing-error-xml-or-text-declaration-not-at-start-of-entity.Youtu.be. (2025). How to Make a Button Open a New Activity | Android App Development ForTutorial. [online] Available at: https://youtu.be/s0FbUYusbEs?si=4QDLODSQxKh_8-kG [Accessed 2 Apr. 2025]."]
 ```
 
-Why:
 ----
 - The References section is critical for academic work to acknowledge the resources and inspiration used during the project.
 
----
+--------------------------------------------------------------------------------------------------------------------------
 
 10. List of Figures
 -------------------
