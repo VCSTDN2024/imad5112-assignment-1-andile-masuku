@@ -122,7 +122,7 @@ The workflow ensures that my project is automatically built and tested every tim
 *Caption for screenshot_2: [ Main screen of the meal app."]*
 
 ### Video Demo:
-A video showcasing the app's functionality can be viewed here: [YouTube Video Link].
+A video showcasing the app's functionality can be viewed here: [https://youtu.be/zv21JFAwLBs].
 ```
 
 THESE
